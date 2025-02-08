@@ -10,3 +10,4 @@ Visit it here 👉 https://github.com/orgs/LootboxFund/repositories
 - Lootbox smart contracts: https://github.com/LootboxFund/contracts
 - Frontend for team onboarding: https://github.com/LootboxFund/player-onboarding-frontend
 - Dashboard for esports organizer: https://github.com/LootboxFund/promoter-frontend
+- Widgets for fans: https://github.com/LootboxFund/widgets
